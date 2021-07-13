@@ -1,4 +1,4 @@
-# Notepad-using-Python\
+# Notepad-using-Python:
 
 
 It's a simple NOTEPAD created in Python using Tkinter.
